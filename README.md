@@ -16,4 +16,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 ## 📱 Contato
 
-jj.danielbr10@gmail.com
+danielsrbueno@gmail.com
